@@ -23,8 +23,7 @@ My main interests are in **offensive and defensive security, vulnerability analy
 ---
 
 ### 📫 How to reach me
-- [LinkedIn](#)  
-- [Email](#)  
+- [LinkedIn](www.linkedin.com/in/leonardo-iazzetta-luchetti)  
 
 ---
 
