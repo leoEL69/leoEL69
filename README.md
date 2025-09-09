@@ -27,4 +27,4 @@ My main interests are in **offensive and defensive security, vulnerability analy
 
 ---
 
-✨ *This README is an initial draft. I will keep updating it to reflect my growing skills and projects in cybersecurity.*
+
