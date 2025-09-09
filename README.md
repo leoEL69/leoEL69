@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Leonardo 👋
 
-<!--
-**leoEL69/leoEL69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **cybersecurity enthusiast** at the beginning of my career, passionate about continuous learning and developing hands-on skills to protect systems and information.  
+I value **ethics, responsibility, and innovation**, and I aim to apply my knowledge to help organizations reduce risks and strengthen their security posture.  
+My main interests are in **offensive and defensive security, vulnerability analysis, and networking**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔐 Cybersecurity student and practitioner  
+- 📚 Currently learning: Networking, C++, and penetration testing fundamentals  
+- 🌱 Core values: Ethics, continuous learning, and collaboration  
+- 🎯 Goal: Contribute to safer and more reliable digital environments  
+
+---
+
+### 🛠️ Tools & Technologies
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Networking](https://img.shields.io/badge/Networking-0078D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+---
+
+### 📫 How to reach me
+- [LinkedIn](#)  
+- [Email](#)  
+
+---
+
+✨ *This README is an initial draft. I will keep updating it to reflect my growing skills and projects in cybersecurity.*
